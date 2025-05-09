@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chancellerie GK Pro - Mukinayi Tshishimbi Mike</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+      color: #12a6eb;
+    }
+    img {
+      max-width: 80%;
+      height: auto;
+      border: 2px solid #ccc;
+    }
+    .badge {
+      background: linear-gradient(to right, #0066cc, #00cc66, #ffff00, #ff0000);
+      color: white;
+      padding: 8px 16px;
+      display: inline-block;
+      margin: 10px 0;
+      font-weight: bold;
+      border-radius: 5px;
+    }
+    .info {
+      text-align: left;
+      max-width: 400px;
+      margin: 0 auto;
+    }
+    .info p {
+      line-height: 1.6;
+    }
+    .btn {
+      background: linear-gradient(to right, #0066cc, #00cc66, #ffff00, #ff0000);
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+      display: inline-block;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h2>MUKINAYI TSHISHIMBI</h2>
+  <img src="Mike portrait.jpg" alt="Photo de Mukinayi Tshishimbi Mike">
+  <div class="badge">BRONZE</div>
+  
+  <div class="info">
+    <p><strong>Nom:</strong> MUKINAYI</p>
+    <p><strong>Post-Nom:</strong> TSHISHIMBI</p>
+    <p><strong>Prénom:</strong> Miki</p>
+    <p><strong>Date de naissance:</strong> 14/12/1997</p>
+    <p><strong>Lieu de naissance:</strong> Mbuji-Mayi</p>
+    <p><strong>Nationalité:</strong> Congolaise</p>
+    <p><strong>Profession:</strong> Informaticien</p>
+    <p><strong>Grade:</strong> Mérite Civ BRONZE</p>
+    <p><strong>No Carte:</strong> 35/016/BR/2024</p>
+  </div>
+
+  <a href="#" class="btn">Contacter la Chancellerie</a>
+</body>
+</html>
